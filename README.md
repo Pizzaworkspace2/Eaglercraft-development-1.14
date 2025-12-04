@@ -1,7 +1,7 @@
-nothing yet
+Eaglercraft 1.14.4 - Java Port
 -
-blocks: update block.java, blocks.java, item.java, Renderitem.java, en_us.lang.
-items: update item.java, items.java, Renderitem.java, en_us.lang.
+This is a 1.8.8 client with 1.13 and 1.14 features added. This client is written in Javascript and ported to JS using the batch file.
+
 
 
 

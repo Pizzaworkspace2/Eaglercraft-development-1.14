@@ -28,7 +28,7 @@ eaglercraft.gui.exitKey=Use '%s' to close this screen!
 eaglercraft.gui.exitKeyRetarded=Use Backtick (`) to close this screen!
 eaglercraft.gui.continue=Continue
 
-eaglercraft.menu.forkOnGitlab=Fork on GitLab
+eaglercraft.menu.forkOnGitlab=Fork on Github
 eaglercraft.menu.editProfile=Edit Profile
 eaglercraft.menu.openToLan=Invite
 eaglercraft.menu.closeLan=Stop Sharing
@@ -3338,4 +3338,5 @@ item.banner.straight_cross.orange=Orange Cross
 item.banner.straight_cross.white=White Cross
 
 item.sweet_berries.name=Sweet Berries
+
 

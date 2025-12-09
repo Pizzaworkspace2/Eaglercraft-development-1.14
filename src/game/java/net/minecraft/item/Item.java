@@ -1044,6 +1044,7 @@ public class Item {
 		registerItem(2267, (String) "record_wait", (new ItemRecord("wait")).setUnlocalizedName("record"));
 
 		registerItemBlock(Blocks.loom);
+		registerItemBlock(Blocks.barrel);
 	}
 
 	/**+
@@ -1130,4 +1131,5 @@ public class Item {
 	}
 
 }
+
 

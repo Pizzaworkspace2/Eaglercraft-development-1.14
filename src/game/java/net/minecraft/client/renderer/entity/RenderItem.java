@@ -1107,6 +1107,7 @@ public class RenderItem implements IResourceManagerReloadListener {
 				"red_mushroom_block");
 		this.registerBlock(Blocks.dragon_egg, "dragon_egg");
 		this.registerBlock(Blocks.loom, "loom");
+		this.registerBlock(Blocks.barrel, "barrel");
 	}
 
 	public void onResourceManagerReload(IResourceManager var1) {
@@ -1114,4 +1115,5 @@ public class RenderItem implements IResourceManagerReloadListener {
 	}
 
 }
+
 

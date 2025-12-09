@@ -6,10 +6,8 @@ This is a 1.8.8 knockoff client with 1.13 and 1.14 features added. This client i
 
 **Play**: https://pizzaworkspace2.github.io/Minecraft-1.14.4
 
-Includes:
-
-> <img src="https://raw.githubusercontent.com/Pizzaworkspace2/Eaglercraft-development-1.14/refs/heads/master/desktopRuntime/resources/assets/minecraft/textures/items/sweet_berries.png" style="height: 150;">
 **IN DEVOLOPMENT!!!!**
+
 
 
 

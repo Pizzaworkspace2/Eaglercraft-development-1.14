@@ -254,6 +254,7 @@ public class Blocks {
 	public static BlockSlab double_stone_slab2;
 	public static BlockSlab stone_slab2;
 	public static Block loom;
+	public static Block barrel;
 
 	/**+
 	 * Returns the Block in the blockRegistry with the specified
@@ -466,7 +467,9 @@ public class Blocks {
 			double_stone_slab2 = (BlockSlab) getRegisteredBlock("double_stone_slab2");
 			stone_slab2 = (BlockSlab) getRegisteredBlock("stone_slab2");
 			loom = getRegisteredBlock("loom");
+			barrel = getRegisteredBlock("barrel");
 		}
 	}
 
 }
+

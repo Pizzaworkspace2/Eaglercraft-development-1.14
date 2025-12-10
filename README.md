@@ -6,7 +6,8 @@ This is a 1.8.8 knockoff client with 1.13 and 1.14 features added. This client i
 
 **Play**: https://pizzaworkspace2.github.io/Minecraft-1.14.4
 
-**Credits**:
+Credits:
+-
 
 **mil1dude**
 - Published source code for 1.21 minecraft. Credit to him for lots of the assets and models.
@@ -15,6 +16,7 @@ This is a 1.8.8 knockoff client with 1.13 and 1.14 features added. This client i
 - Added blocks and items and compiled the code.
 
 **IN DEVOLOPMENT!!!!**
+
 
 
 

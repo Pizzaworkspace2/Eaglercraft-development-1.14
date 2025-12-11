@@ -27,6 +27,7 @@ Credits:
 -
 **This Repo Contains**:
 - Source code both handwritten and taken from the real game for Eaglercraft 1.14.4
+- Decompiled Code
 - Everything you need to make your own clients and mods.
 - Everything to run deskstop runtime.
 
@@ -35,6 +36,7 @@ Credits:
 - New lax1dude optimizations.
   
 **IN DEVOLOPMENT!!!!**
+
 
 
 

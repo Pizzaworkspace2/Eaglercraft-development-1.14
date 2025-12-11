@@ -23,7 +23,17 @@ Credits:
 **AR-DEV-1**
 - Has lots of 1.14.4 files uploaded in a deleted repository. (Recovered)
 
+**This Repo Contains**:
+- Source code both handwritten and taken from the real game for Eaglercraft 1.14.4
+- Everything you need to make your own clients and mods.
+- Everything to run deskstop runtime.
+
+**This does not contain**
+- Files to host a server
+- New lax1dude optimizations.
+  
 **IN DEVOLOPMENT!!!!**
+
 
 
 

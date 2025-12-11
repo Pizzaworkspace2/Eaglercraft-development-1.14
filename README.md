@@ -30,12 +30,15 @@ Credits:
 - Decompiled Code
 - Everything you need to make your own clients and mods.
 - Everything to run deskstop runtime.
+- New Skins
 
 **This does not contain**
 - Files to host a server
-- New lax1dude optimizations.
+- New lax1dude optimizations
+- New Dependencies and systems.
   
 **IN DEVOLOPMENT!!!!**
+
 
 
 

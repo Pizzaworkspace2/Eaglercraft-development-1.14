@@ -1547,10 +1547,10 @@ public class Block {
 		registerBlock(197, (String) "dark_oak_door", (new BlockDoor(Material.wood)).setHardness(3.0F)
 				.setStepSound(soundTypeWood).setUnlocalizedName("doorDarkOak").disableStats());
 		registerBlock(198, (String) "loom",
-				(new BlockLoom(0)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("loom"));
+				(new BlockLoom(false)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("loom"));
 		blockRegistry.validateKey();
 		registerBlock(199, (String) "barrel",
-				(new BlockBarrel(0)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel"));
+				(new BlockBarrel(false)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel"));
 		blockRegistry.validateKey();
 
 		for (Block block13 : blockRegistry) {
@@ -1707,5 +1707,6 @@ public class Block {
 	}
 
 }
+
 
 

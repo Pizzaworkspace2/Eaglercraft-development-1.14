@@ -1547,11 +1547,11 @@ public class Block {
 		registerBlock(197, (String) "dark_oak_door", (new BlockDoor(Material.wood)).setHardness(3.0F)
 				.setStepSound(soundTypeWood).setUnlocalizedName("doorDarkOak").disableStats());
 		registerBlock(198, (String) "loom",
-				(new Block(Material.wood)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("loom"));
-		blockRegistry.validateKey();
+				(new Block(Material.wood)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("loom")
+						.setCreativeTab(CreativeTabs.tabDecorations));
 		registerBlock(199, (String) "barrel",
-				(new Block(Material.wood)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel"));
-		blockRegistry.validateKey();
+				(new Block(Material.wood)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel")
+						.setCreativeTab(CreativeTabs.tabDecorations));
 
 		for (Block block13 : blockRegistry) {
 			if (block13.blockMaterial == Material.air) {
@@ -1707,6 +1707,7 @@ public class Block {
 	}
 
 }
+
 
 
 

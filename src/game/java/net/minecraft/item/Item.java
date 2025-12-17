@@ -1045,6 +1045,12 @@ public class Item {
 
 		registerItemBlock(Blocks.loom);
 		registerItemBlock(Blocks.barrel);
+        registerItemBlock(Blocks.stripped_oak_log);
+		registerItemBlock(Blocks.stripped_birch_log);
+		registerItemBlock(Blocks.stripped_acacia_log);
+		registerItemBlock(Blocks.stripped_jungle_log);
+		registerItemBlock(Blocks.stripped_spruce_log);
+		registerItemBlock(Blocks.stripped_dark_oak_log);
 	}
 
 	/**+
@@ -1131,5 +1137,6 @@ public class Item {
 	}
 
 }
+
 
 

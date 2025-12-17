@@ -1108,6 +1108,11 @@ public class RenderItem implements IResourceManagerReloadListener {
 		this.registerBlock(Blocks.dragon_egg, "dragon_egg");
 		this.registerBlock(Blocks.loom, "loom");
 		this.registerBlock(Blocks.barrel, "barrel");
+		this.registerBlock(Blocks.stripped_oak_log, "stripped_oak_log");
+		this.registerBlock(Blocks.stripped_birch_log, "stripped_birch_log");
+		this.registerBlock(Blocks.stripped_jungle_log, "stripped_jungle_log");
+		this.registerBlock(Blocks.stripped_spruce_log, "stripped_spruce_log");
+		this.registerBlock(Blocks.stripped_dark_oak_log, "stripped_dark_oak_log");
 	}
 
 	public void onResourceManagerReload(IResourceManager var1) {
@@ -1115,5 +1120,6 @@ public class RenderItem implements IResourceManagerReloadListener {
 	}
 
 }
+
 
 

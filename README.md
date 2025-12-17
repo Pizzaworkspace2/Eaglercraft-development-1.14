@@ -12,7 +12,7 @@ Credits:
 -
 
 **mil1dude**
-- Published source code for 1.21 minecraft. Credit to him for lots of the assets and models.
+- Published source code for 1.21 minecraft, (which needs some work). Credit to him for lots of the assets and models.
 
 **Pizzaworkspace2**
 - Adds blocks and items.
@@ -40,6 +40,7 @@ Credits:
 - New Dependencies and systems.
   
 **IN DEVOLOPMENT!!!!**
+
 
 
 

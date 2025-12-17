@@ -255,6 +255,12 @@ public class Blocks {
 	public static BlockSlab stone_slab2;
 	public static Block loom;
 	public static Block barrel;
+	public static Block stripped_oak_log;
+	public static Block stripped_birch_log;
+	public static Block stripped_acacia_log;
+	public static Block stripped_jungle_log;
+	public static Block stripped_spruce_log;
+	public static Block stripped_dark_oak_log;
 
 	/**+
 	 * Returns the Block in the blockRegistry with the specified
@@ -468,8 +474,15 @@ public class Blocks {
 			stone_slab2 = (BlockSlab) getRegisteredBlock("stone_slab2");
 			loom = getRegisteredBlock("loom");
 			barrel = getRegisteredBlock("barrel");
+			stripped_oak_log = getRegisteredBlock("stripped_oak_log");
+			stripped_birch_log = getRegisteredBlock("stripped_birch_log");
+			stripped_acacia_log = getRegisteredBlock("stripped_acacia_log");
+			stripped_jungle_log = getRegisteredBlock("stripped_jungle_log");
+			stripped_spruce_log = getRegisteredBlock("stripped_spruce_log");
+			stripped_dark_oak_log = getRegisteredBlock("stripped_dark_oak_log");
 		}
 	}
 
 }
+
 

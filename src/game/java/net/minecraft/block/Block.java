@@ -1552,6 +1552,25 @@ public class Block {
 		registerBlock(199, (String) "barrel",
 				(new Block(Material.wood)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel")
 						.setCreativeTab(CreativeTabs.tabDecorations));
+		registerBlock(200, (String) "stripped_oak_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_oak_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(201, (String) "stripped_birch_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_birch_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(202, (String) "stripped_acacia_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_acacia_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(203, (String) "stripped_jungle_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_jungle_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(204, (String) "stripped_spruce_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_spruce_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(205, (String) "stripped_dark_oak_log",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_dark_oak_log")
+						.setCreativeTab(CreativeTabs.tabBlock));
+
 
 		for (Block block13 : blockRegistry) {
 			if (block13.blockMaterial == Material.air) {
@@ -1707,6 +1726,7 @@ public class Block {
 	}
 
 }
+
 
 
 

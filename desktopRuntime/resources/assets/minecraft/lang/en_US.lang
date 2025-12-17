@@ -3342,6 +3342,21 @@ tile.loom.name=Loom
 
 tile.barrel.name=Barrel
 
+tile.stripped_oak_log.name=Stripped Oak Log
+
+tile.stripped_birch_log.name=Stripped Birch Log
+
+tile.stripped_acacia_log.name=Stripped Acacia Log
+
+tile.stripped_jungle_log.name=Stripped Jungle Log
+
+tile.stripped_spruce_log.name=Stripped Spruce Log
+
+tile.stripped_dark_oak_log.name=Stripped Dark Oak Log
+
+
+
+
 
 
 

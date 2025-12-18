@@ -1570,6 +1570,10 @@ public class Block {
 		registerBlock(205, (String) "stripped_dark_oak_log",
 				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("stripped_dark_oak_log")
 						.setCreativeTab(CreativeTabs.tabBlock));
+		registerBlock(206, (String) "bamboo",
+				(new Block(Material.wood)).setHardness(2.0F).setStepSound(soundTypeWood).setUnlocalizedName("bamboo")
+						.setCreativeTab(CreativeTabs.tabBlock));
+		
 
 
 		for (Block block13 : blockRegistry) {
@@ -1726,6 +1730,7 @@ public class Block {
 	}
 
 }
+
 
 
 

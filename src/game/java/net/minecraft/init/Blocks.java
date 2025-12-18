@@ -261,6 +261,7 @@ public class Blocks {
 	public static Block stripped_jungle_log;
 	public static Block stripped_spruce_log;
 	public static Block stripped_dark_oak_log;
+	public static Block bamboo;
 
 	/**+
 	 * Returns the Block in the blockRegistry with the specified
@@ -480,9 +481,11 @@ public class Blocks {
 			stripped_jungle_log = getRegisteredBlock("stripped_jungle_log");
 			stripped_spruce_log = getRegisteredBlock("stripped_spruce_log");
 			stripped_dark_oak_log = getRegisteredBlock("stripped_dark_oak_log");
+			bamboo = getRegisteredBlock("bamboo");
 		}
 	}
 
 }
+
 
 

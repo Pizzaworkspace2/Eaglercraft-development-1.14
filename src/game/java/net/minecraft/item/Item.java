@@ -1051,6 +1051,7 @@ public class Item {
 		registerItemBlock(Blocks.stripped_jungle_log);
 		registerItemBlock(Blocks.stripped_spruce_log);
 		registerItemBlock(Blocks.stripped_dark_oak_log);
+		registerItemBlock(Blocks.bamboo);
 	}
 
 	/**+
@@ -1137,6 +1138,7 @@ public class Item {
 	}
 
 }
+
 
 
 

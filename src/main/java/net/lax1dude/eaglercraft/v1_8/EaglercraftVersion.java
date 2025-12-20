@@ -9,7 +9,7 @@ public class EaglercraftVersion {
 	
 	/// Customize these to fit your fork:
 	
-	public static final String projectForkName = "EaglercraftX";
+	public static final String projectForkName = "Eaglercraft-GX";
 	public static final String projectForkVersion = "u53";
 	public static final String projectForkVendor = "lax1dude";
 	
@@ -17,7 +17,7 @@ public class EaglercraftVersion {
 	
 	//////////////////////////////////////////////////////////////////////
 	
-	public static final String projectOriginName = "EaglercraftX";
+	public static final String projectOriginName = "Eaglercraft-GX";
 	public static final String projectOriginAuthor = "lax1dude";
 	public static final String projectOriginRevision = "1.14";
 	public static final String projectOriginVersion = "u53";
@@ -75,4 +75,5 @@ public class EaglercraftVersion {
 	public static final String localStorageNamespace = "_eaglercraftX";
 
 }
+
 

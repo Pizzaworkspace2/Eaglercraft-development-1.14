@@ -45,12 +45,12 @@ public enum DefaultSkins {
 	PIG(22, "Pig", new ResourceLocation("eagler:skins/23.pig.png"), SkinModel.STEVE),
 	MOOSHROOM(23, "Mooshroom", new ResourceLocation("eagler:skins/24.mooshroom.png"), SkinModel.STEVE),
 	FREDDY(24, "Freddy", new ResourceLocation("eagler:skins/25.freddy.png"), SkinModel.STEVE),
-	BEAR(24, "Bear", new ResourceLocation("eagler:skins/26.bear.png"), SkinModel.STEVE),
-	LONG_ARMS(25, "Long Arms", new ResourceLocation("eagler:mesh/longarms.fallback.png"), SkinModel.LONG_ARMS),
-	WEIRD_CLIMBER_DUDE(26, "Weird Climber Dude", new ResourceLocation("eagler:mesh/weirdclimber.fallback.png"), SkinModel.WEIRD_CLIMBER_DUDE),
-	LAXATIVE_DUDE(27, "Laxative Dude", new ResourceLocation("eagler:mesh/laxativedude.fallback.png"), SkinModel.LAXATIVE_DUDE),
-	BABY_CHARLES(28, "Baby Charles", new ResourceLocation("eagler:mesh/charles.fallback.png"), SkinModel.BABY_CHARLES),
-	BABY_WINSTON(29, "Baby Winston", new ResourceLocation("eagler:mesh/winston.fallback.png"), SkinModel.BABY_WINSTON);
+	BEAR(25, "Bear", new ResourceLocation("eagler:skins/26.bear.png"), SkinModel.STEVE),
+	LONG_ARMS(26, "Long Arms", new ResourceLocation("eagler:mesh/longarms.fallback.png"), SkinModel.LONG_ARMS),
+	WEIRD_CLIMBER_DUDE(27, "Weird Climber Dude", new ResourceLocation("eagler:mesh/weirdclimber.fallback.png"), SkinModel.WEIRD_CLIMBER_DUDE),
+	LAXATIVE_DUDE(28, "Laxative Dude", new ResourceLocation("eagler:mesh/laxativedude.fallback.png"), SkinModel.LAXATIVE_DUDE),
+	BABY_CHARLES(29, "Baby Charles", new ResourceLocation("eagler:mesh/charles.fallback.png"), SkinModel.BABY_CHARLES),
+	BABY_WINSTON(30, "Baby Winston", new ResourceLocation("eagler:mesh/winston.fallback.png"), SkinModel.BABY_WINSTON);
 	
 	public static final DefaultSkins[] defaultSkinsMap = new DefaultSkins[29];
 	
@@ -87,4 +87,5 @@ public enum DefaultSkins {
 
 
 }
+
 
